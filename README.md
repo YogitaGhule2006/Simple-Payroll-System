@@ -19,3 +19,4 @@ Our vision is to simplify payroll distribution on the Stacks blockchain by enabl
 ## 5. Contract Address
 `SP123EXAMPLECONTRACTADDRESS`  
 *(Replace with the actual deployed contract address after deployment.)*
+<img width="1364" height="749" alt="Screenshot 2025-08-12 145207" src="https://github.com/user-attachments/assets/3c1db402-14c8-485e-ac40-ef14120a7664" />
